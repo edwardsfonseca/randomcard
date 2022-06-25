@@ -1,1 +1,49 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: rgb(6, 165, 51);
+}
+
+.cardheart {
+  width: 300px;
+  height: 483px;
+  border-radius: 25px;
+  margin: auto;
+  background-color: white;
+}
+
+.cardarriba {
+  padding-top: 0px;
+  margin-bottom: 10px;
+}
+
+.icon {
+  margin-top: 43px;
+
+  font-size: 90px;
+  padding-left: 5px;
+}
+
+.numerocentral {
+  font-size: 150px;
+  text-align: center;
+}
+
+.numerocentral p {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.cardabajo {
+  margin-top: -34px;
+  padding-right: 7px;
+  font-size: 95px;
+  margin-bottom: 15px;
+}
+#bottom {
+  text-align: center;
+  margin-top: 50px;
+}
+.icon2 {
+  display: flex;
+  flex-direction: row-reverse;
+}
